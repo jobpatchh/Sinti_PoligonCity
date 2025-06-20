@@ -1,0 +1,35 @@
+{
+  "name": "by.sinti.polygoncity.urp",
+  "version": "1.0.0",
+  "displayName": "Sinti Polygon City URP",
+  "description": "Polygon City / Polygon Construction",
+  "unity": "2021.1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "3d",
+    "low poly"
+  ],
+  "author": {
+    "name": "jobpatchh",
+    "email": "user@noreply.com",
+    "url": "https://github.com/jobpatchh"
+  },
+  "type": "3d",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "11.0.0"
+  }, 
+  "samples": [
+	{
+		"displayName": "Polygon City",
+		"description": "",
+		"path": "Samples~/PolygonCity"
+	},
+	{
+		"displayName": "Polygon Construction",
+		"description": "",
+		"path": "Samples~/PolygonConstruction"
+	}
+    ]
+}
